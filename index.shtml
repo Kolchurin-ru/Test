@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nissan Leaf</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="main">
+    <section calss = "section-main Nissan Leaf aze0">
+    <h2 class="section-main__title">
+    Nissan Leaf AZE0   
+    </h2>
+    <p class="section-main__subtext">
+    Старый кузов
+    </p>
+    <p class="section-main__text">
+        Как у старухи
+    </p>
+    <div class="btn-box">
+        <a class="btn primary" href="#">Смотри</a>
+        <a class="btn secondary" href="#">Предзаказ</a>
+    </div>
+    </section>
+    <section calss = "section-main Nissan Leaf ze1">
+    <h2 class="section-main__title">
+    Nissan Leaf ZE1
+    </h2>
+    <p class="section-main__subtext">
+    Рестайлинг
+    </p>
+    <p class="section-main__text">
+        Красивый
+    </p>
+    <div class="btn-box">
+        <a class="btn primary" href="#">Смотри</a>
+        <a class="btn secondary" href="#">Предзаказ</a>
+    </div>
+    </section>
+    <section calss = "section-main Wheels on Nissan">
+    <h2 class="section-main__title">
+    Wheels on Nissan Leaf
+    </h2>
+    <p class="section-main__subtext">
+    Летние диски
+    </p>
+    <p class="section-main__text">
+        Литые 
+    </p>
+    <div class="btn-box">
+        <a class="btn primary" href="#">Смотри</a>
+        <a class="btn secondary" href="#">Предзаказ</a>
+    </div>
+    </section>
+  </main>
+</body>
+</html>
