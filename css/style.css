@@ -1,7 +1,45 @@
+html{
+    box-sizing: border-box;
+}
 
+*,
+*::after,
+*::before{
+    box-sizing: inherit;
+}
 
 .section-main {
     padding-top: 55px;
     text-align: center;
     min-height: 692px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.Nissan-Leaf-aze0{
+    background-image: image-set(
+        "../images/Nissan-leaf-aze0.avif" type("image/avif"),
+        "../images/Nissan-leaf-aze0.webp" type("image/webp"),
+        "../images/Nissan-leaf-aze0.jpg"
+    )
+
+}
+
+.Nissan-Leaf-ze1{
+    background-image: image-set(
+        "../images/Nissan-leaf-ze1.avif" type("image/avif"),
+        "../images/Nissan-leaf-ze1.webp" type("image/webp"),
+        "../images/Nissan-leaf-ze1.jpg"
+    )
+
+}
+
+.Wheels-on-Nissan{
+    background-image: image-set(
+        "../images/Wheels-on-Nissan-leaf.avif" type("image/avif"),
+        "..images/Wheels-on-Nissan-leaf.webp" type("image/webp"),
+        "../images/Wheels-on-Nissan-leaf.jpg"
+    )
+
 }
